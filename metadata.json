@@ -1,0 +1,6 @@
+{
+  "name": "Df-OMTViewer",
+  "description": "Open Media Transport (OMT) network stream viewer and medical imaging analyzer",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
